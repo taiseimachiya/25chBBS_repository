@@ -23,10 +23,10 @@
 
 # 手順
 
-* public_htmlをディレクトリ作成
+* public_htmlディレクトリをユーザーディレクトリ下に作成
 * リポジトリから 25chBBS.py を取得
 * ~/public_html/に保存
-* ~/public_html/.envファイルを作成し以下を設定
+* ~/public_html/に.envファイルを作成し以下を設定
 ```bash
 bbs_db_host="ホスト名"
 bbs_db_user="ユーザー名"
@@ -37,3 +37,5 @@ bbs_db_name="データベース名"
 ```bash
 chmod 755 25chBBs.py
 ```
+
+
