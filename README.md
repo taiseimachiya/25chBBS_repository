@@ -12,7 +12,7 @@
 
 # 動作環境
 * Ubuntu20.04
-* Python3
+* Python3.8.5
 * MySQL8.0.23
 
 # 事前準備
